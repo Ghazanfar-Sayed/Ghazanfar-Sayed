@@ -25,4 +25,4 @@ Collaborated on scalable solutions that prioritize performance, security, and us
 
 💻 Languages: JavaScript | PHP | Dart | Python
 🛠️ Frameworks & Tools: Laravel | Next.js | Flutter | React | Scrapy | Tailwind CSS
-📫 Contact: [Your email or GitHub Discussions]
+📫 Contact: Whatsapp Number: +937 7634 5335 | Gmail: sayedghazanfarmohabbat@gmail.com
