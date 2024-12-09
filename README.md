@@ -22,3 +22,7 @@ Proficient in modern tools and frameworks like React, Vue.js, and Flutter.
 Designed and deployed complex web platforms, integrating elegant frontend interfaces with powerful backend systems.
 Created efficient web scrapers and automation tools to extract valuable insights from diverse datasets.
 Collaborated on scalable solutions that prioritize performance, security, and user experience.
+
+💻 Languages: JavaScript | PHP | Dart | Python
+🛠️ Frameworks & Tools: Laravel | Next.js | Flutter | React | Scrapy | Tailwind CSS
+📫 Contact: [Your email or GitHub Discussions]
