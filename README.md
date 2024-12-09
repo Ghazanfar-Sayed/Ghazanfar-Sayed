@@ -7,11 +7,13 @@ Backend Development: Skilled in building robust APIs and scalable applications u
 Frontend Excellence: Creating seamless, dynamic user interfaces with Next.js and modern JavaScript frameworks.
 Mobile Development: Delivering engaging mobile experiences with Dart and Flutter.
 Web Scraping & Automation: Extracting and automating data workflows using Python and JavaScript.
+
 🌟 Key Skills:
 Full-stack application development with Laravel and Next.js.
 Advanced web scraping and data parsing with Beautiful Soup, Scrapy, and custom scripts.
 Hands-on experience with RESTful APIs, GraphQL, and real-time systems.
 Proficient in modern tools and frameworks like React, Vue.js, and Flutter.
+
 📈 Professional Highlights:
 Designed and deployed complex web platforms, integrating elegant frontend interfaces with powerful backend systems.
 Created efficient web scrapers and automation tools to extract valuable insights from diverse datasets.
